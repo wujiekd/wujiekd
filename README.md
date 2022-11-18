@@ -1,5 +1,5 @@
 ### Hi there 👋
-![wujiekd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true)
+![wujiekd's GitHub stats](https://github-readme-stats.vercel.app/api?username=wujiekd&show_icons=true)
 
 <!--
 **wujiekd/wujiekd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
